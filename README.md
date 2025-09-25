@@ -159,8 +159,3 @@ cd cdk && cdk destroy
 Note: You may have to delete the *AWSServiceRoleForAmazonElasticsearchService* separately. 
 
 
-## Authors
-
-- [Michelle Pfister](https://github.com/meilipfi)
-- [Felix John](https://github.com/Madabaru)
-
